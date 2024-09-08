@@ -21,3 +21,8 @@ The model is trained with a constant learning rate of 1e-4 using the AdamW optim
 
 ## Evaluation
 The model's performance is evaluated using Frechet Inception Distance (FID), a metric that assesses the quality and diversity of generated images by comparing their statistics to those of real images.
+## Research Paper
+https://arxiv.org/abs/2212.09748
+
+## Original Implementation
+https://github.com/facebookresearch/DiT
